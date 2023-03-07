@@ -11,7 +11,7 @@ def operator(choose):
 
 
 operator_1 = input("""
-Choosen your operator:
+Choose your operator:
 1) KS
 2) VF
 3) LC
@@ -19,7 +19,7 @@ Choosen your operator:
 oper_1 = operator(operator_1)
 
 operator_2 = input("""
-Choosen abonent's operator:
+Choose abonent's operator:
 1) KS
 2) VF
 3) LC
