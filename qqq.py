@@ -8,4 +8,6 @@ def merge_lists_to_dict(list_1, list_2):
 goods = ['apple', 'banana', 'strawberry', 'leamon']
 price = [15, 49, 99, 26]
 
+print(merge_lists_to_dict(list_1=goods, list_2=price))
+print(merge_lists_to_dict(goods, list_2=price))
 print(merge_lists_to_dict(goods, price))
